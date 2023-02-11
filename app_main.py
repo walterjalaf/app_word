@@ -49,6 +49,17 @@ creo el archivo de texto y escrivo las librerias que quiero
 
 pip install -r requirements.txt
 
+
+
+
+k
+
+
+
+
+
+kjkkkkkkkkk
+
 """
 
 
